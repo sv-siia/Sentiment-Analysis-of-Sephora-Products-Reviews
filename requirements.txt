@@ -1,0 +1,10 @@
+pandas  #  Data manipulation and analysis.
+numpy   # Numerical computations.
+matplotlib  # Data visualization.
+seaborn     # Statistical data visualization.
+scikit-learn   # Machine learning models and preprocessing (TfidfVectorizer, LogisticRegression, RandomForestClassifier, etc.).
+imblearn       # Handling imbalanced data (SMOTE).
+spacy      # NLP processing.
+nltk       # Stopwords and text processing.
+collections   # Used for Counter
+ipython       # To use display() in Jupyter Notebooks.
